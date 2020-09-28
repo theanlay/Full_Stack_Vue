@@ -2,9 +2,9 @@
     "name": "backend_to_database",
     "version": "1.0.0",
     "description": "full stack vue and express app",
-    "main": "node index.js",
+    "main": "index.js",
     "scripts": {
-        "start": "node server/index.js",
+        "start": "F:/KIT/Semester_2/Self_learning/Backend_to_database/server/index.js",
         "dev": "nodemon server/index.js"
         
     },
