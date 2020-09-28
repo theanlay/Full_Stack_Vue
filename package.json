@@ -4,7 +4,7 @@
     "description": "full stack vue and express app",
     "main": "index.js",
     "scripts": {
-        "start": "F:/KIT/Semester_2/Self_learning/Backend_to_database/server/index.js",
+        "start": "node F:/KIT/Semester_2/Self_learning/Backend_to_database/server/index.js",
         "dev": "nodemon server/index.js"
         
     },
