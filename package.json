@@ -2,11 +2,11 @@
     "name": "backend_to_database",
     "version": "1.0.0",
     "description": "full stack vue and express app",
-    "main": "index.js",
+    "main": "node index.js",
     "scripts": {
         "start": "node server/index.js",
-        "dev": "nodemon server/index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "dev": "nodemon server/index.js"
+        
     },
     "author": "Theanlay",
     "license": "MIT",
